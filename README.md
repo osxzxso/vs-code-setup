@@ -28,7 +28,7 @@ This repo contains my current setup for Visual Studio Code, including used exten
 
 ## Accounts
 
-- [GitHub](https://github.com): Integrates GitHub account with Visual Studio Code.
+- [GitHub](https://github.com): Integrates GitHub account into Visual Studio Code.
 - [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync): Syncs Visual Studio Code settings across devices/installations.
 
 ## Theme
