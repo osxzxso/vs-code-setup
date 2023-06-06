@@ -2,7 +2,7 @@
 
 # Visual Studio Code | VS Code | VSC setup
 
-My current setup for Visual Studio Code, including used extensions, themes, and other settings.
+My current setup for Visual Studio Code, including extensions, themes, and other settings.
 
 ## Table of Contents
 - [Program](#program)
