@@ -8,8 +8,7 @@ This repo contains my current setup for Visual Studio Code, including used exten
 - [Program](#program)
 - [Font](#font)
 - [Formatters and Linters](#formatters-and-linters)
-- [GitHub](#github)
-- [Settings Sync](#settings-sync)
+- [Accounts](#accounts)
 - [Theme](#theme)
 - [Extensions - Enabled](#extensions---enabled)
 - [Extensions - Disabled](#extensions---disabled)
@@ -27,17 +26,14 @@ This repo contains my current setup for Visual Studio Code, including used exten
 - Default
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Integrates ESLint into Visual Studio Code.
 
-## GitHub
+## Accounts
 
-- **Status:** [Signed in](https://github.com)
-
-## Settings Sync
-
-- **Status:** [On](https://code.visualstudio.com/docs/editor/settings-sync)
+- [GitHub](https://github.com): Integrates GitHub account with Visual Studio Code.
+- [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync): Syncs Visual Studio Code settings across devices/installations.
 
 ## Theme
 
-- [GitHub Theme - Dark](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- [GitHub Theme - Dark](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme): Applies the official Dark GitHub theme to Visual Studio Code.
 
 ## Extensions - Enabled
 
